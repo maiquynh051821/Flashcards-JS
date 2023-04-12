@@ -10,7 +10,8 @@ body{
   font-family: 'Nunito', sans-serif;
   font-size: 1rem;
   background: rgb(136, 222, 248);
-  background-image:url(pngtree-small-fresh-anime-scene-background-picture-image_811034.jpg);
+  background-image:url(anh-nen-fl.jpg);
+  background-size: 20%;
 
 }
 
@@ -28,7 +29,7 @@ button:hover{
 }
 
 .container{
-  width: 1280px;
+  width: max;
   margin: auto;
 }
 
@@ -41,7 +42,14 @@ button:hover{
   min-height: 70px;
   padding: 0 20px;
   background-image: url(Hinh-anh-meo-cute-chibi-dep-nhat.jpg);
+ 
 }
+#header{
+position: relative;
+
+}
+
+
 #header h1{
 color: #0bac41;
 }
